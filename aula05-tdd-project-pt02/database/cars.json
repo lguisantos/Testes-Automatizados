@@ -1,0 +1,44 @@
+[
+    {
+        "id": "323a2fbb-d317-497c-9af8-115658716ff7",
+        "name": "LeBaron",
+        "releaseYear": 2022,
+        "avaliable": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "e3adcdcd-1484-44e0-832b-251fce4f5aec",
+        "name": "Corvette",
+        "releaseYear": 2022,
+        "avaliable": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "43a442eb-f2ea-4627-bdde-af3048588283",
+        "name": "Civic",
+        "releaseYear": 2022,
+        "avaliable": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "550063de-da78-4514-83cd-45bd5dbf16c7",
+        "name": "F-150",
+        "releaseYear": 2022,
+        "avaliable": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "28b1eaa7-a4be-40c3-a09e-808e1079168d",
+        "name": "Model T",
+        "releaseYear": 2021,
+        "avaliable": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "915a9f81-3848-4cf0-9b5c-6f2d9c8196e9",
+        "name": "F-150",
+        "releaseYear": 2021,
+        "avaliable": true,
+        "gasAvailable": true
+    }
+]
