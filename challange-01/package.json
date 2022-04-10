@@ -1,0 +1,17 @@
+{
+  "name": "challange-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha -w --parallel ./src/*.test.js",
+    "test:conv": "npx nyc npx mocha --parallel ./src/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.2.2",
+    "nyc": "^15.1.0"
+  }
+}

@@ -60,11 +60,4 @@ class File {
     }
 }
 
-// (async () => {
-//     // const result = await File.csvToJson('./../mock/threeItems-valid.csv')
-//     // const result = await File.csvToJson('./../mock/fourItems-invalid.csv')
-//     const result = await File.csvToJson('./../mock/invalid-header.csv')
-//     console.log(result)
-// })()
-
 module.exports = File
